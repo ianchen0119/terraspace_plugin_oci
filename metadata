@@ -26,11 +26,11 @@ files:
 - lib/terraspace_plugin_oci.rb
 - lib/terraspace_plugin_oci/version.rb
 - terraspace_plugin_oci.gemspec
-homepage: https://github.com/boltops-tools/terraspace_plugin_oci
+homepage: https://github.com/ianchen0119/terraspace_plugin_oci
 licenses:
 - Apache2.0
 metadata:
-  homepage_uri: https://github.com/boltops-tools/terraspace_plugin_oci
+  homepage_uri: https://github.com/ianchen0119/terraspace_plugin_oci
 post_install_message: 
 rdoc_options: []
 require_paths:

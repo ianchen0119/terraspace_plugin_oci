@@ -12,4 +12,4 @@ gem 'terraspace_plugin_oci'
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/boltops-tools/terraspace_plugin_oci.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ianchen0119/terraspace_plugin_oci.

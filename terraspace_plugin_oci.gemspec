@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tung@boltops.com"]
 
   spec.summary       = "Terraspace Provider"
-  spec.homepage      = "https://github.com/boltops-tools/terraspace_plugin_oci"
+  spec.homepage      = "https://github.com/ianchen0119/terraspace_plugin_oci"
   spec.license       = "Apache2.0"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
